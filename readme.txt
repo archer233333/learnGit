@@ -8,4 +8,4 @@ wodexin
 新增另一个文件
 git tracks changes of files. 
 
-add a new branch & simple
+add a new branch is quick And simple
